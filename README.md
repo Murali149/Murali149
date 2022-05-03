@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **muralikrishnava149@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1hiGh3XRtjDOBPdY_HvJ79Sle_CkL2Mvs-HPbSoWB9Zs/edit?usp=sharing](https://docs.google.com/document/d/1hiGh3XRtjDOBPdY_HvJ79Sle_CkL2Mvs-HPbSoWB9Zs/edit?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1AVMo2oMgRerhFbzedX8k-Al_CM3MH9Fm/view?usp=sharing](clickHere)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
