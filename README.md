@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **redux**
 
-- 👨‍💻 All of my projects are available at [http://localhost:3000/](https://myfinalportfolio-3bdsl0b1p-murali149.vercel.app)
+- 👨‍💻 All of my projects are available at [https://myfinalportfolio-3bdsl0b1p-murali149.vercel.app](https://myfinalportfolio-3bdsl0b1p-murali149.vercel.app)
 
 - 📫 How to reach me **muralikrishnava149@gmail.com**
 
